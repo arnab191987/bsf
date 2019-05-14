@@ -1,0 +1,10 @@
+Two user type
+1. admin
+2. agent
+
+Admin login
+admin.agent can submit form
+
+Admin can edit/delete the submitted data
+Agent can not delete the data
+Data search
